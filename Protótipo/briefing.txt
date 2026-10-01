@@ -1,0 +1,28 @@
+Objetivo:
+Plataforma para contratação de evento de casamento.
+
+Público alvo:
+- fornecedores: vão cadastrar seus serviços e produtos;
+- contratantes (noivos e noivas): vão pesquisar as melhores opções para seu projeto.
+
+Referências visuais:
+Sketch.
+
+Telas principais
+
+Tela inicial:
+Terá a apresentação da logo e identidade visual com três botões principais, todos serão em forma de seleção;
+O primeiro terá opções de escolha de cidades, o segundo terá a opção da data do evento e o terceiro será a seleção entre noivo e noiva, 
+após as seleções dos filtros ao aplicar abrirá a página home para buscas; 
+Terá um botão específico para fazer login e ou se cadastrar no site.
+
+Home:
+Abas para pesquisa das categorias como Buffet, lugares, vestimenta, fotógrafos (cabeçalho);
+Imagens e avaliações de eventos já realizados (corpo);
+Suporte, ajuda, feedback, dúvidas, contato (rodapé).
+
+
+
+
+
+
